@@ -29,7 +29,7 @@ const App = () => {
   return (
     <div>
       <header class="header">
-        <h1 class="logo-placeholder">Owusu Buaheng</h1>
+        <h1 class="logo-placeholder">Frank Owusu Buabeng</h1>
         <svg
           class="menu-btn"
           id="menu-btn"
@@ -56,7 +56,7 @@ const App = () => {
         <div class="main-body">
           <h1><b>Welcome to Project Defence 2025</b></h1>
           <p>A Comparative Analysis of Front-End Optimisation Methods for Reducing Web Page Load Time</p>
-          <img src="/assets/images/Edinburgh_logo.png" alt="University of Edinburgh logo" class="edin-logo" />
+          <img src="/assets/images/edinburgh_napier_logo.png" alt="University of Edinburgh logo" class="edin-logo" />
         </div>
         
         <div class="shadow-cont" id="about">
@@ -95,7 +95,7 @@ const App = () => {
       </main>
 
       <footer class="">
-        Owusu Buaheng | Copyright &copy; 2025
+        Frank Owusu Buabeng | Copyright &copy; 2025
       </footer>
     </div>
   )
